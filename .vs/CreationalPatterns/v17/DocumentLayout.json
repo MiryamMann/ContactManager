@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\server\\CreationalPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\factoryfolder\\factorysim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\factoryfolder\\factorysim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\factoryfolder\\factoryphon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\factoryfolder\\factoryphon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\factoryfolder\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\factoryfolder\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\simcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\simcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\singleton\\colorprinting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\singleton\\colorprinting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\prototype\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\prototype\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\builder\\phonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\builder\\phonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\builder\\simbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\builder\\simbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\builder\\icontactbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\builder\\icontactbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\builder\\contactdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\builder\\contactdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\telephon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\telephon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\phonecontact .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\phonecontact .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\contactperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\contactperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\contactlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\contactlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|h:\\server\\creationalpatterns\\creationalpatterns\\creationalpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B42FD43F-7304-4AEC-B36D-009CF96730A8}|CreationalPatterns\\CreationalPatterns.csproj|solutionrelative:creationalpatterns\\creationalpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhoneBuilder.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Builder\\PhoneBuilder.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Builder\\PhoneBuilder.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Builder\\PhoneBuilder.cs",
+              "RelativeToolTip": "CreationalPatterns\\Builder\\PhoneBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:00:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColorPrinting.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Singleton\\ColorPrinting.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Singleton\\ColorPrinting.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Singleton\\ColorPrinting.cs",
+              "RelativeToolTip": "CreationalPatterns\\Singleton\\ColorPrinting.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:20:23.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactoryPhon.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\FactoryFolder\\FactoryPhon.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\FactoryFolder\\FactoryPhon.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\FactoryFolder\\FactoryPhon.cs",
+              "RelativeToolTip": "CreationalPatterns\\FactoryFolder\\FactoryPhon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:24:31.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\FactoryFolder\\Factory.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\FactoryFolder\\Factory.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\FactoryFolder\\Factory.cs",
+              "RelativeToolTip": "CreationalPatterns\\FactoryFolder\\Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:47:18.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Program.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Program.cs",
+              "RelativeToolTip": "CreationalPatterns\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:51:02.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IContactBuilder.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Builder\\IContactBuilder.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Builder\\IContactBuilder.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Builder\\IContactBuilder.cs",
+              "RelativeToolTip": "CreationalPatterns\\Builder\\IContactBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:59:39.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactorySIM.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\FactoryFolder\\FactorySIM.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\FactoryFolder\\FactorySIM.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\FactoryFolder\\FactorySIM.cs",
+              "RelativeToolTip": "CreationalPatterns\\FactoryFolder\\FactorySIM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:24:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimBuilder.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Builder\\SimBuilder.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Builder\\SimBuilder.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Builder\\SimBuilder.cs",
+              "RelativeToolTip": "CreationalPatterns\\Builder\\SimBuilder.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:22:29.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProtoType.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Prototype\\IProtoType.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Prototype\\IProtoType.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Prototype\\IProtoType.cs",
+              "RelativeToolTip": "CreationalPatterns\\Prototype\\IProtoType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:26:10.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registry.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Prototype\\Registry.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Prototype\\Registry.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Prototype\\Registry.cs",
+              "RelativeToolTip": "CreationalPatterns\\Prototype\\Registry.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:55:51.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SIMContact.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\SIMContact.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\SIMContact.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\SIMContact.cs",
+              "RelativeToolTip": "CreationalPatterns\\SIMContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:34:53.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactDirector.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Builder\\ContactDirector.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Builder\\ContactDirector.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Builder\\ContactDirector.cs",
+              "RelativeToolTip": "CreationalPatterns\\Builder\\ContactDirector.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:57:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Telephon.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Telephon.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Telephon.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Telephon.cs",
+              "RelativeToolTip": "CreationalPatterns\\Telephon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:54:06.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhoneContact .cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\PhoneContact .cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\PhoneContact .cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\PhoneContact .cs",
+              "RelativeToolTip": "CreationalPatterns\\PhoneContact .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:35:23.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactPerson.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\ContactPerson.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\ContactPerson.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\ContactPerson.cs",
+              "RelativeToolTip": "CreationalPatterns\\ContactPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:02:04.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactList.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\ContactList.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\ContactList.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\ContactList.cs",
+              "RelativeToolTip": "CreationalPatterns\\ContactList.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:54:11.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Groups.cs",
+              "RelativeDocumentMoniker": "CreationalPatterns\\Groups.cs",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\Groups.cs",
+              "RelativeToolTip": "CreationalPatterns\\Groups.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:58:30.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreationalPatterns.csproj",
+              "DocumentMoniker": "H:\\server\\CreationalPatterns\\CreationalPatterns\\CreationalPatterns.csproj",
+              "RelativeDocumentMoniker": "CreationalPatterns\\CreationalPatterns.csproj",
+              "ToolTip": "H:\\server\\CreationalPatterns\\CreationalPatterns\\CreationalPatterns.csproj",
+              "RelativeToolTip": "CreationalPatterns\\CreationalPatterns.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T11:04:16.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.AssemblyInfoInputs.cache
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.AssemblyInfo.cs
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.csproj.CoreCompileInputs.cache
+H:\server\CreationalPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.exe
+H:\server\CreationalPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.deps.json
+H:\server\CreationalPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.runtimeconfig.json
+H:\server\CreationalPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.dll
+H:\server\CreationalPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.pdb
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.dll
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\refint\CreationalPatterns.dll
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.pdb
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.genruntimeconfig.cache
+H:\server\CreationalPatterns\CreationalPatterns\obj\Debug\net8.0\ref\CreationalPatterns.dll
